@@ -1,3 +1,3 @@
 # First-One
 Demo repo
-By Andrew 
+By Andrew Gillick
